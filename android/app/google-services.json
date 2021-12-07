@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426344778187",
+    "firebase_url": "https://ambama.firebaseio.com",
+    "project_id": "ambama",
+    "storage_bucket": "ambama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426344778187:android:5cfe14e11fda945276ce4e",
+        "android_client_info": {
+          "package_name": "com.example.ampama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426344778187-4dtqmjh3tmp7mu9925trbepe9fr42lbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ampama",
+            "certificate_hash": "45192843583d98f5bbe4592061061eb042a9f488"
+          }
+        },
+        {
+          "client_id": "426344778187-6avjf837ol4idcvv84i976lar1tmtklv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjX1iwF1WiCVUEZieL37TUxkm1ewDfIlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426344778187-6avjf837ol4idcvv84i976lar1tmtklv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
